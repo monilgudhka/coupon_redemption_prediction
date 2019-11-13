@@ -1,4 +1,5 @@
-# <a href="https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/">Predicting Coupon Redemption</a>
+# AmExpert 2019 – Machine Learning Hackathon
+https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/
 
 ## Problem Statement
 <p>Discount marketing and coupon usage are very widely used promotional techniques to attract new customers and to retain & reinforce loyalty of existing customers. The measurement of a consumer’s propensity towards coupon usage and the prediction of the redemption behaviour are crucial parameters in assessing the effectiveness of a marketing campaign.<p>
